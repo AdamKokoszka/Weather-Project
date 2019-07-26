@@ -1,29 +1,15 @@
-# coffee-mug-weather
+# Coffee Mug Weather
 
-## Project setup
+## Uruchomienie projektu
 ```
+Pobieramy Paczke z Githuba i rozpakowywujemy lub pobieramy projekt używając npm clone
+
+Aby zobaczyć wersje produkcyjną wystarczy wejsc do /prod i odpalić w przegladarce index.html
+
+Aby zobaczyć strukture projektu należy wejść do projektu i zainstalować paczek w cmd
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+w folderze src znajduje się cała struktura
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
