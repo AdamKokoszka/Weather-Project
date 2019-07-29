@@ -1,15 +1,19 @@
-# Coffee Mug Weather
+# Coffee Mug - Weather Project
 
 ## Uruchomienie projektu
+Pobieramy Paczke z Githuba i rozpakowywujemy lub pobieramy projekt używając
+```bash
+git clone https://github.com/AdamKokoszka/Weather-Project
 ```
-Pobieramy Paczke z Githuba i rozpakowywujemy lub pobieramy projekt używając npm clone
+Aby zobaczyć wersję produkcyjną wystarczy wejsc do /dist i otworzyć w przegladarce index.html
 
-Aby zobaczyć wersje produkcyjną wystarczy wejsc do /prod i odpalić w przegladarce index.html
-
-Aby zobaczyć strukture projektu należy wejść do projektu i zainstalować paczek w cmd
+Aby zobaczyć strukture projektu należy wejść do projektu i zainstalować paczki w cmd wpisując
+```bash
 npm install
+```
+W folderze /src znajduje się cała struktura projektu.
 
-w folderze src znajduje się cała struktura
-
-
+Aby uruchomić lokalny server należy wpisać
+```bash
+npm run serve
 ```
