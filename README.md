@@ -3,7 +3,7 @@
 ## Uruchomienie projektu
 Pobieramy Paczke z Githuba i rozpakowywujemy lub pobieramy projekt używając
 ```bash
-npm clone https://github.com/AdamKokoszka/Weather-Project
+git clone https://github.com/AdamKokoszka/Weather-Project
 ```
 Aby zobaczyć wersję produkcyjną wystarczy wejsc do /prod i otworzyć w przegladarce index.html
 
