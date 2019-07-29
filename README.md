@@ -5,7 +5,7 @@ Pobieramy Paczke z Githuba i rozpakowywujemy lub pobieramy projekt używając
 ```bash
 git clone https://github.com/AdamKokoszka/Weather-Project
 ```
-Aby zobaczyć wersję produkcyjną wystarczy wejsc do /prod i otworzyć w przegladarce index.html
+Aby zobaczyć wersję produkcyjną wystarczy wejsc do /dist i otworzyć w przegladarce index.html
 
 Aby zobaczyć strukture projektu należy wejść do projektu i zainstalować paczki w cmd wpisując
 ```bash
