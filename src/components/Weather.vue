@@ -89,7 +89,7 @@
       };
     },
     mounted() {
-      axios.get('http://dev-weather-api.azurewebsites.net/api/city').then(res => {
+      axios.get('https://dev-weather-api.azurewebsites.net/api/city').then(res => {
           this.cities = res.data;
         })
         .catch(error => console.log(error))
@@ -104,7 +104,7 @@
           this.currentCity = this.currentCityObj.name;
         }
         
-        axios.get('http://dev-weather-api.azurewebsites.net/api/city/' + this.selected + '/weather?date=' + this.currentDate).then(res => {
+        axios.get('https://dev-weather-api.azurewebsites.net/api/city/' + this.selected + '/weather?date=' + this.currentDate).then(res => {
             this.cityInfo = res.data;
             this.currentWeatherInfo = res.data[0];
             this.currentWeatherInfo.precipitation = res.data[0].precipitation;
