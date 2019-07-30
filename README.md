@@ -18,4 +18,5 @@ Aby uruchomić lokalny server należy wpisać
 npm run serve
 ```
 Stronę można zobaczyć na
+
 [adamkokoszka.github.io/Weather-Project/](https://adamkokoszka.github.io/Weather-Project/)
